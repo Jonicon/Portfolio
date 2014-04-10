@@ -1,4 +1,4 @@
 Portfolio
 =========
 
-A collection of miscellaneous and even random bits of code. Are you a possible employer? Check here! 
+Collection of  code, mostly consisting of school assignements. A possible employer? Check here! 
