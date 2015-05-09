@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-const char ao=132;
+const char ao=132; //character 'ä'
 
 typedef struct{
 	char *name;

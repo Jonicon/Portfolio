@@ -24,7 +24,8 @@ int number_of_items(const TOrderedList *list);
 int list_empty(const TOrderedList *list);
 
 int main (void) {
-     TOrderedList list; Titem item;
+     TOrderedList list; 
+	 Titem item;
      int i , succeed, no, result;
      initialize_list(&list);
      printf("\n Enter items in any order\n");

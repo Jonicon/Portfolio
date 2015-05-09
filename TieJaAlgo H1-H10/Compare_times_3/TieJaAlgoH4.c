@@ -7,8 +7,8 @@ typedef struct{
 	float temperature;
 }Tmeas;
 
-const char ae=132;
-const char oe=142;
+const char ae=132; // 'ä'
+const char oe=142; // 'ö'
 
 void lue_mittaus(Tmeas *measures)
 {
