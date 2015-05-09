@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game", "Game.vcxproj", "{978C34DF-2E33-44F9-BA4F-B6EA271438A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameTest", "..\GameTest\GameTest.vcxproj", "{59ABEC77-6C4F-463C-9E2C-8CC7CFF57119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978C34DF-2E33-44F9-BA4F-B6EA271438A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{978C34DF-2E33-44F9-BA4F-B6EA271438A9}.Debug|Win32.Build.0 = Debug|Win32
+		{978C34DF-2E33-44F9-BA4F-B6EA271438A9}.Release|Win32.ActiveCfg = Release|Win32
+		{978C34DF-2E33-44F9-BA4F-B6EA271438A9}.Release|Win32.Build.0 = Release|Win32
+		{59ABEC77-6C4F-463C-9E2C-8CC7CFF57119}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59ABEC77-6C4F-463C-9E2C-8CC7CFF57119}.Debug|Win32.Build.0 = Debug|Win32
+		{59ABEC77-6C4F-463C-9E2C-8CC7CFF57119}.Release|Win32.ActiveCfg = Release|Win32
+		{59ABEC77-6C4F-463C-9E2C-8CC7CFF57119}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

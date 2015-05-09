@@ -1,0 +1,18 @@
+﻿Build started 17-7-14 16:42:34 .
+     1>Project "E:\DOCS\GitHub\Game\GameTest\GameTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Ohjelmat\Ohjelmointi\Visual Studio 2012\VC\bin\CL.exe /c /I"E:\Ohjelmat\Ohjelmointi\SDL2.0\SDL2-2.0.1\include" /I"E:\Ohjelmat\Ohjelmointi\Visual Studio 2012\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\GameTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Ohjelmat\Ohjelmointi\Visual Studio 2012\VC\bin\CL.exe /c /I"E:\Ohjelmat\Ohjelmointi\SDL2.0\SDL2-2.0.1\include" /I"E:\Ohjelmat\Ohjelmointi\Visual Studio 2012\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GameTest.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /FC /errorReport:prompt EntitiesTests.cpp
+         EntitiesTests.cpp
+       Link:
+         E:\Ohjelmat\Ohjelmointi\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\DOCS\GitHub\Game\Game\Debug\GameTest.dll" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Ohjelmat\Ohjelmointi\Visual Studio 2012\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\DOCS\GitHub\Game\Game\Debug\GameTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\DOCS\GitHub\Game\Game\Debug\GameTest.lib" /MACHINE:X86 /DLL Debug\EntitiesTests.obj
+         Debug\stdafx.obj
+         E:\DOCS\GitHub\Game\Game\Debug\Game.lib
+            Creating library E:\DOCS\GitHub\Game\Game\Debug\GameTest.lib and object E:\DOCS\GitHub\Game\Game\Debug\GameTest.exp
+         GameTest.vcxproj -> E:\DOCS\GitHub\Game\Game\Debug\GameTest.dll
+     1>Done Building Project "E:\DOCS\GitHub\Game\GameTest\GameTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.66
